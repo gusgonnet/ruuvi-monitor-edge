@@ -16,5 +16,8 @@ Please follow the instructions on the Particle Monitor Edge repository to setup 
 
 ### CONNECT
 
-Having problems or have suggestions? Connect with us [here.](https://community.particle.io/).
+Having problems or have suggestions? Connect with us [here](https://community.particle.io/t/measure-your-world-with-ruuvi-tags-and-particle-monitor-one/66289).
 
+### Hackster Project
+
+This project is also available on [Hackster](https://www.hackster.io/gusgonnet/measure-your-world-with-ruuvi-tags-and-particle-monitor-one-0ecc96).

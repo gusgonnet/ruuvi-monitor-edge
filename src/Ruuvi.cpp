@@ -1,5 +1,8 @@
 #include "Ruuvi.h"
 
+// adapt this interval to your needs
+#define SCAN_INTERVAL_MS 10000
+
 Logger ruuviLog("app.ruuvi");
 
 // NUS (Nordic UART Service)
@@ -36,7 +39,7 @@ void Ruuvi::loop()
 {
     static unsigned long lastTime = millis();
     unsigned long now = millis();
-    if ((now - lastTime) >= 10000)
+    if ((now - lastTime) >= SCAN_INTERVAL_MS)
     {
         lastTime = now;
 
