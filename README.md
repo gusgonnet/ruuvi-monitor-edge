@@ -20,4 +20,4 @@ Having problems or have suggestions? Connect with us [here](https://community.pa
 
 ### Hackster Project
 
-This project is also available on [Hackster](https://www.hackster.io/gusgonnet/measure-your-world-with-ruuvi-tags-and-particle-monitor-one-0ecc96).
+This project is available on [Hackster](https://www.hackster.io/gusgonnet/measure-your-world-with-ruuvi-tags-and-particle-monitor-one-0ecc96).
